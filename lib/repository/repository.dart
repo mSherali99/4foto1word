@@ -29,7 +29,7 @@ class Repository {
     list.add(GameModel(image1: "assets/photos/hand1.jpg", image2: "assets/photos/hand2.jpg", image3: "assets/photos/hand3.jpg", image4: "assets/photos/hand4.jpg", str8: "HAND", str16: "QHVMSHAUIONXWDYI"));
     list.add(GameModel(image1: "assets/photos/light1.jpg", image2: "assets/photos/light2.jpg", image3: "assets/photos/light3.jpg", image4: "assets/photos/light4.jpg", str8: "LIGHT", str16: "JLSAGQWHZAIMTQTZ"));
     list.add(GameModel(image1: "assets/photos/lion1.jpg", image2: "assets/photos/lion2.jpg", image3: "assets/photos/lion3.jpg", image4: "assets/photos/lion4.jpg", str8: "LION", str16: "VOHAIDQWLZNSOFNQ"));
-    list.add(GameModel(image1: "assets/photos/mountain1.jpg", image2: "assets/photos/mountain2.jpg", image3: "assets/photos/mountain3.jpg", image4: "assets/photos/mountain4.jpg", str8: "MOUNTAIN", str16: "DMAIDAKODTZUQNEN"));
+    list.add(GameModel(image1: "assets/photos/mountain1.jpg", image2: "assets/photos/mountain2.jpg", image3: "assets/photos/mountain3.jpg", image4: "assets/photos/mountain4.jpg", str8: "MOUNT", str16: "DMAIDAKODTZUQNEN"));
     list.add(GameModel(image1: "assets/photos/mouse1.jpg", image2: "assets/photos/mouse2.jpg", image3: "assets/photos/mouse3.jpg", image4: "assets/photos/mouse4.jpg", str8: "MOUSE", str16: "TOIEUZXEWOMKLSUE"));
     list.add(GameModel(image1: "assets/photos/music1.jpg", image2: "assets/photos/music2.png", image3: "assets/photos/music3.jpg", image4: "assets/photos/music4.jpg", str8: "MUSIC", str16: "QWMERUTYSUIIOPCZ"));
     list.add(GameModel(image1: "assets/photos/phone1.jpg", image2: "assets/photos/phone2.jpg", image3: "assets/photos/phone3.jpg", image4: "assets/photos/phone4.jpg", str8: "PHONE", str16: "UPOTHFEHNALQPOFI"));
